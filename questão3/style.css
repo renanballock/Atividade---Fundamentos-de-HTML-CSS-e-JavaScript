@@ -1,0 +1,32 @@
+.centralizar{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.input{
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.button{
+    background-color: aqua;
+    color: red;
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+}
+
+#minha-lista{
+    list-style-type: disc;
+    padding-left: 10px;
+    margin-top: 10px;
+    
+}
+
+.li{
+    color: red;
+    font-size: 20px;
+}

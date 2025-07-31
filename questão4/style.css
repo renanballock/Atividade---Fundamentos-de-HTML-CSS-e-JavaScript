@@ -1,0 +1,23 @@
+.centralizarTexto{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.decoracao{
+    width: 200px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+
+#resultado-calculadora{
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+}
+
+.margem{
+    margin-top : 20px;
+}

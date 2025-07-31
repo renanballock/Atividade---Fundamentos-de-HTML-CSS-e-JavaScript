@@ -1,0 +1,33 @@
+.bodyDeco{
+    background-color: #f8f8f8;
+    color: #333;
+}
+
+header{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+    
+.dark-theme{
+    background-color: #333;
+    color: #f8f8f8
+}
+
+.dark-theme header,
+.dark-theme p{
+    background-color: #444;
+    color: #f8f8f8;
+}
+
+button{
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+

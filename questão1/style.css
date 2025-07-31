@@ -1,0 +1,27 @@
+.centralizarTexto{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.bordaInput{
+    padding: 5px;
+    border-radius: 5px;
+}
+
+#mensagem-erro{
+    color: red;
+    font-weight: bold;
+    display: none;
+}
+
+.botao{
+    background-color: aqua;
+    color: red;
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+}
+
